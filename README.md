@@ -5,7 +5,8 @@
 This project simulates a real-world analytics workflow, from raw data exploration in SQL to a fully interactive multi-page Power BI report. The dataset represents a fictional e-commerce company's CRM system: customers, orders, leads, campaigns, and sales reps across 6 countries.
 
 # Dashboard
-<img width="1342" height="755" alt="image" src="https://github.com/user-attachments/assets/f2b100d0-3bc9-427d-9ca1-461668986cab" />
-<img width="1342" height="754" alt="image" src="https://github.com/user-attachments/assets/e8e689fe-80f5-4466-8bbd-a82e665eab3d" />
-<img width="1340" height="756" alt="image" src="https://github.com/user-attachments/assets/d06865d8-ac37-4f89-85b8-ce33aa16a80b" />
+<img width="1341" height="755" alt="image" src="https://github.com/user-attachments/assets/6805a7d8-df30-4965-be90-257ec91c10c7" />
+<img width="1341" height="754" alt="image" src="https://github.com/user-attachments/assets/6dfaa966-862f-412f-992f-0d222af54b29" />
+<img width="1341" height="753" alt="image" src="https://github.com/user-attachments/assets/19fd43ae-6174-44d7-b2ea-164f21fdb193" />
+
 
